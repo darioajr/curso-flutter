@@ -20,12 +20,12 @@ Estudantes de tecnologia, desenvolvedores, e profissionais interessados em apren
    - [Ambiente de desenvolvimento](docs/AMBIENTE_DART.md)
 
 2. **Fundamentos da linguagem DART**
-   - Variáveis, tipos de dados e operadores
-   - Estruturas condicionais e de repetição
-   - Funções e escopo
-   - Coleções e estruturas de dados
-   - Classes, objetos e herança
-   - Tratamento de erros e exceções
+   - [Variáveis, tipos de dados e operadores](docs/VARIAVEIS_TIPOS_OPERADORES.md)
+   - [Estruturas condic(ionais e de repetição](docs/ESTRUTURAS_CONDICIONAIS.md)
+   - [Funções e escopo](docs/FUNCOES_ESCOPO.md)
+   - [Coleções e estruturas de dados](docs/COLECOES_ESTRUTURAS.md)
+   - [Classes, objetos e herança](docs/CLASSES_OBJETOS.md)
+   - [Tratamento de erros e exceções](docs/TRATAMENTO_ERROS.md)
 
 3. **Introdução ao Flutter**
    - O que é Flutter

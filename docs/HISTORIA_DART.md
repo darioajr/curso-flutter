@@ -18,5 +18,6 @@ A DART apresenta várias características que a tornam atraente para desenvolved
 - Forte sistema de tipos, ajudando a prevenir erros em tempo de compilação
 - Suporte a isolates, proporcionando execução concorrente e paralela de código
 
+
 Com o lançamento do Flutter, a DART ganhou ainda mais destaque, pois o framework permite o desenvolvimento de aplicativos nativos para Android, iOS, web e desktop com uma única base de código. Essa abordagem multiplataforma simplifica o processo de desenvolvimento, reduz a duplicação de esforços e acelera a entrega de aplicativos de alta qualidade.
 

@@ -18,4 +18,5 @@ O Flutter possui várias características que o tornam atraente para os desenvol
 - Suporte a desenvolvimento para Android, iOS, web e desktop com uma única base de código
 - Ampla coleção de pacotes e plugins disponíveis, permitindo a fácil integração com diversos serviços e APIs
 
+
 Graças a essas características, o Flutter tem se tornado uma escolha popular para o desenvolvimento de aplicativos, permitindo que empresas e desenvolvedores economizem tempo e recursos ao criar soluções multiplataforma.
