@@ -15,9 +15,9 @@ Estudantes de tecnologia, desenvolvedores, e profissionais interessados em apren
 ## Ementa
 
 1. **Introdução ao DART**
-   - História e propósito
-   - Características da linguagem
-   - Ambiente de desenvolvimento
+   - [História e propósito](docs/HISTORIA_DART.md)
+   - [Características da linguagem](docs/CARACTERISTICAS_DART.md)
+   - [Ambiente de desenvolvimento](docs/AMBIENTE_DART.md)
 
 2. **Fundamentos da linguagem DART**
    - Variáveis, tipos de dados e operadores
