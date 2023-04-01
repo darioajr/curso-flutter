@@ -62,11 +62,15 @@ Para criar um novo aplicativo Flutter, siga estas etapas:
 2. Execute o comando `flutter create nome_do_projeto`, substituindo `nome_do_projeto` pelo nome que você deseja dar ao seu aplicativo.
 3. Navegue até o diretório do projeto recém-criado e execute o comando `flutter run` para iniciar o aplicativo no emulador ou dispositivo conectado.
 
+```bash
 cd nome_do_projeto
-flutter run
+```
 
-```css
+```bash
+flutter run
+```
+
 Seu aplicativo Flutter agora deve ser executado no emulador ou dispositivo selecionado.
 
 Com seu ambiente de desenvolvimento Flutter configurado, você pode começar a criar aplicativos incríveis e de alto desempenho para Android, iOS e outras plataformas. Aproveite a rica coleção de widgets e recursos avançados do Flutter para criar aplicativos atraentes e envolventes.
-```
+
