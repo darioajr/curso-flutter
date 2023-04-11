@@ -215,11 +215,11 @@ Lembre-se de adicionar as permissões necessárias no arquivo `AndroidManifest.x
 
 Em resumo, para acessar a câmera e a galeria de fotos no Flutter, você pode usar os pacotes `camera` e `image_picker`. Essas bibliotecas facilitam a integração desses recursos em seu aplicativo, permitindo que você se concentre no desenvolvimento da interface do usuário e da lógica do aplicativo.
 
-## 3. Permissoes
+## 3. Permissões
 
 Para acessar a câmera e a galeria no Flutter, você precisa incluir permissões específicas nos arquivos `AndroidManifest.xml` (para Android) e `Info.plist` (para iOS).
 
-### No Android:
+### Android:
 
 Abra o arquivo `AndroidManifest.xml` que está localizado em android/app/src/main.
 Adicione a permissão CAMERA dentro da tag <manifest> e antes da tag <application>:
@@ -251,7 +251,7 @@ O arquivo `AndroidManifest.xml` ficará assim:
 </manifest>
 ```
 
-### No iOS:
+### iOS:
 
 Abra o arquivo `Info.plist` que está localizado em `ios/Runner`.
 
