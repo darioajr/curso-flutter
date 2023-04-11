@@ -11,11 +11,7 @@ dependencies:
   camera: ^0.9.4+5
 ```
 
-Execute 
-```bash 
-flutter pub get
-```
-para baixar e instalar o pacote.
+Execute o comando `flutter pub get` para baixar e instalar o pacote.
 
 Importe o pacote no arquivo em que você deseja usar a câmera:
 

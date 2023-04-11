@@ -17,11 +17,7 @@ Importe o pacote no arquivo em que você deseja usar a geolocalização:
   import 'package:geolocator/geolocator.dart';
   ```
 
-Execute 
-```bash 
-flutter pub get
-```
-para baixar e instalar o pacote.
+Execute o comando `flutter pub get` para baixar e instalar o pacote.
 
 Para obter a localização atual do dispositivo, siga estas etapas:
 
