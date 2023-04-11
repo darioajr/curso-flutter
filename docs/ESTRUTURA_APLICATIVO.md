@@ -2,6 +2,7 @@
 
 Um aplicativo Flutter possui uma estrutura de diretórios e arquivos padrão que ajuda a organizar o código e os recursos. Aqui está uma visão geral dos diretórios e arquivos mais importantes em um projeto Flutter.
 
+```
 nome_do_projeto/
 ├─ .dart_tool/
 ├─ .idea/
@@ -19,7 +20,7 @@ nome_do_projeto/
 ├─ .flutter-plugins-dependencies
 ├─ .pubspec.lock
 └─ pubspec.yaml
-
+```
 
 ## Descrição dos diretórios e arquivos
 
