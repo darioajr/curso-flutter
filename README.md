@@ -60,6 +60,7 @@ Estudantes de tecnologia, desenvolvedores, e profissionais interessados em apren
    - [Conectando-se a uma API REST](docs/CONECTANDO_API_REST.md)
    - [Autenticação e autorização](docs/AUTENTICACAO_AUTORIZACAO.md)
    - [Integração com serviços de armazenamento na nuvem e bancos de dados](docs/INTEGRACOES.md)
+   - [Persistência de Dados com Hive](docs/PERSISTENCIA_HIVE.md)
 
 9. **Testes e depuração**
    - [Testes unitários e de widget](docs/TESTES_UNITARIOS.md)
